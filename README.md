@@ -1,4 +1,5 @@
 Turbofan Engine Remaining Useful Life Prediction
+
 This project aims to predict the number of remaining operational cycles before failure for a turbofan engine, using historical sensor data to estimate the Remaining Useful Life (RUL). It is intended to support proactive maintenance and increase system reliability by predicting failures before they occur.
 
 Table of Contents
