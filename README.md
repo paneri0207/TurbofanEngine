@@ -79,6 +79,7 @@ python main.py
 
 
 Contributing
+
 If you wish to contribute, please fork the repository and create a pull request. Your contribution will be reviewed, and if approved, it will be added to the main repository.
 
 License
