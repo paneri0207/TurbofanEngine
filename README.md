@@ -61,20 +61,23 @@ Model performance is evaluated based on the accuracy of RUL predictions. The fin
 RMSE:
 MAE:
 R-Squared:
-[Include graphs of predicted vs actual RUL or any other model visualizations here.]
+
 
 Usage
 To train and evaluate the model:
 
 Clone the repository.
+
 Install the necessary dependencies:
-bash
-Copy code
+
 pip install -r requirements.txt
+
+
 Run the main.py script to train and evaluate the model:
-bash
-Copy code
+
 python main.py
+
+
 Contributing
 If you wish to contribute, please fork the repository and create a pull request. Your contribution will be reviewed, and if approved, it will be added to the main repository.
 
